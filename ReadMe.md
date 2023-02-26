@@ -32,8 +32,11 @@ Project supports:
 - Token-based login to account (multiple login supported), 
 
 # Project files:
+
 ![store-cli-api](https://github.com/RobertNeat/store-cli-api)
+
 ![spring-boot-store](https://github.com/RobertNeat/spring-boot-store)
+
 ![store-front](https://github.com/RobertNeat/store-front)
 
 The project contains files such as:
