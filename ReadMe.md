@@ -10,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-9cf)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-5-blueviolet)
 
+VII- IX 2022
 
 # Project description
 Project is the functional implementation of web-based bookstore.
